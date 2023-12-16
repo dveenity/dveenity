@@ -51,21 +51,3 @@ To sum it up, I'm a passionate and driven programmer, constantly seeking opportu
 <a href="http://www.github.com/Judeadeniji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Judeadeniji&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/Judeadeniji"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Judeadeniji&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/Judeadeniji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judeadeniji&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-    <a href="https://github.com/dveenity/Todo-web-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Judeadeniji&repo=UtilitiJs&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/Judeadeniji/brace-apps" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Judeadeniji&repo=brace-apps&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-    <a href="https://github.com/Judeadeniji/Cardinal-js" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Judeadeniji&repo=Cardinal-js&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/Judeadeniji/Jass-foss" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Judeadeniji&repo=Jass-foss&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Feranmi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
